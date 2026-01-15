@@ -1,5 +1,4 @@
-Aqui está um modelo de README.md profissional, formatado com Markdown, pronto para você copiar e colar no seu repositório do GitHub. Ele inclui badges, tabelas de comandos e o link do Discord com ícone conforme solicitado.
-Copie o código abaixo e salve como README.md:
+
 # 🤖 Bot de Vendas & Integração API (LHubFF)
 
 <div align="center">
