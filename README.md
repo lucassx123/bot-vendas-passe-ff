@@ -34,8 +34,6 @@ Certifique-se de ter o [Node.js](https://nodejs.org/) instalado em sua máquina.
 Baixe o projeto e instale os pacotes necessários:
 
 ```bash
-git clone [https://github.com/SEU-USUARIO/NOME-DO-REPO.git](https://github.com/SEU-USUARIO/NOME-DO-REPO.git)
-cd NOME-DO-REPO
 npm install discord.js axios better-sqlite3 dotenv
 
 3. Configuração (.env)
