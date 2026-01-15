@@ -17,8 +17,8 @@ Bot profissional para Discord com sistema de economia local (SQLite) e integraç
 
 ### 1. Dependências
 ```bash
-git clone [https://github.com/SEU-USER/SEU-REPO.git](https://github.com/SEU-USER/SEU-REPO.git)
-cd SEU-REPO
+git clone [Https://github.com/lucassx123/BOT-DE-PASSE-FF-LHUB/]
+cd BOT-DE-PASSE-FF-LHUB
 npm install discord.js axios better-sqlite3 dotenv
 
 2. Configuração
